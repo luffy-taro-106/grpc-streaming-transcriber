@@ -66,14 +66,11 @@ python client.py
 ## 📁 File Structure
 
 ```
-.
-├── NeMo/                     # NVIDIA's NeMo repo for ASR
+.                     # NVIDIA's NeMo repo for ASR
 ├── output_mono.wav
 ├── client.py
 ├── server.py
 ├── transcriber.proto
-├── transcriber_pb2.py
-├── transcriber_pb2_grpc.py
 ├── requirements.txt
 └── README.md
 ```
